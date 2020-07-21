@@ -1,0 +1,12 @@
+.contact {
+  background-color: #f8fafa;
+  padding-top: 4em;
+  padding-bottom: 4em;
+}
+
+.contact-heading {
+  font-size: 3.25em;
+  color: rgba(117, 121, 149, 0.5);
+  margin-bottom: 2rem;
+  font-weight: 600;
+}
