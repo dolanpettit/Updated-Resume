@@ -31,6 +31,10 @@ textarea {
   height: 6em;
 }
 
+.contact__container {
+  margin-bottom: 15px;
+}
+
 /* Style the form icons */
 .contact__icon {
   padding: 15px;
@@ -39,11 +43,12 @@ textarea {
   min-width: 4em;
   text-align: center;
   border-radius: 5px;
+  float: left;
 }
 
 /* Style the input fields */
 .contact__input {
-  width: 100%;
+  width: 90%;
   padding: 10px;
   outline: none;
 }
